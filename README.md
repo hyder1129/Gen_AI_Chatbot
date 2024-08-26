@@ -1,4 +1,4 @@
-# Gen_AI_Chatbot  
+# Gen_AI_Chatbot Application
 Attended the workshop called "Mega AI workshop" conducted by nxtwave and build a generative AI chatbot using gradio libraries
 
 ## How to get Open AI API Key?
