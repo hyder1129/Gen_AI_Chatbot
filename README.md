@@ -1,4 +1,4 @@
-# Gen_AI_Chatbot  click to visit: hyder1129aibot.ccbp.tech
+# Gen_AI_Chatbot  
 Attended the workshop called "Mega AI workshop" conducted by nxtwave and build a generative AI chatbot using gradio libraries
 
 ## How to get Open AI API Key?
@@ -22,3 +22,6 @@ Create New Secrets.
 
 ## Note:
 Make sure to add your OPENAI_API_KEY in Secret key
+
+## click to visit: 
+https://hyder1129aibot.ccbp.tech
