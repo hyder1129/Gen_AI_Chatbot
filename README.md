@@ -7,7 +7,7 @@ Create a new Secret Key
 Copy the Secret Key for your use.
 
 
-## Similar to Open AI Mondel we can also use HuggingFace Transformer Models.
+## Similar to Open AI Models we can also use HuggingFace Transformer Models.
 Reference links: https://python.langchain.com/docs/integrations/providers/huggingface ,
 https://python.langchain.com/docs/integrations/llms/huggingface_hub.html
 
