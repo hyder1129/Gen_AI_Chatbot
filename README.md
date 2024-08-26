@@ -23,5 +23,5 @@ Create New Secrets.
 ## Note:
 Make sure to add your OPENAI_API_KEY in Secret key
 
-## click to visit: 
+## click to visit my chatbot: 
 [Gen_AI_Chatbot Application](https://hyder1129aibot.ccbp.tech/)
