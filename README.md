@@ -14,10 +14,10 @@ https://python.langchain.com/docs/integrations/llms/huggingface_hub.html
 
 
 ## Adding Secret Variables in Hugging Face Account:
-Open your Space
-Click on Settings Button
-Checkout to Variables and secrets section
-Create New Secrets
+Open your Space ,
+Click on Settings Button ,
+Checkout to Variables and secrets section ,
+Create New Secrets.
 
 
 ## Note:
